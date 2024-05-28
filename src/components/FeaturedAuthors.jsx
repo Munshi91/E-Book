@@ -4,7 +4,7 @@ const FeaturedAuthors = () => {
   return (
     <>
       <h1 className="text-4xl font-bold text-center my-8">Featured Authors</h1>
-      <div className="flex justify-around text-center">
+      <div className="flex flex-col md:flex-row justify-around text-center">
         {Authors.map((author, i) => (
           <div>
             <img
