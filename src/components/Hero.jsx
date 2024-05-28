@@ -1,5 +1,5 @@
 import Swiper from 'swiper';
-import { Authors, Books } from '../data.js';
+import { Books } from '../data.js';
 import { SwiperSlide } from 'swiper/react';
 
 export const Hero = () => {
