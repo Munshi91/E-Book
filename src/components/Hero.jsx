@@ -8,8 +8,8 @@ export const Hero = () => {
             turn pages...
           </h1>
           <p className="text-xl">
-            "Journey through the pages, find solace in words, and let the
-            stories within shape your world."
+            Journey through the pages, find solace in words, and let the stories
+            within shape your world.
           </p>
         </div>
         <img src="" alt="" />
