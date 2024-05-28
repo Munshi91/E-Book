@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import FeaturedAuthors from './components/FeaturedAuthors';
 import TopSellingBooks from './components/TopSellingBooks';
+import FeaturedBooks from './components/FeaturedBooks';
 // register Swiper custom elements
 register();
 
@@ -14,6 +15,7 @@ function App() {
       <Hero />
       <FeaturedAuthors />
       <TopSellingBooks />
+      <FeaturedBooks />
     </>
   );
 }
